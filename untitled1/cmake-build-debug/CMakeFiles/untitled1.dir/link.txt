@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled1.dir/Biblioteca.cpp.o CMakeFiles/untitled1.dir/TDD.cpp.o  -o untitled1 
